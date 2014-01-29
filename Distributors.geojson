@@ -11,7 +11,21 @@
         ]
       },
       "properties": {
-        "Organization": "Open Source Robotics Foundation"
+        "Organization": "Open Source Robotics Foundation",
+        "Role": "Licensor"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Yujin Robot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -233.11803817749026,
+          37.475982006769264
+        ]
       }
     }
   ]
