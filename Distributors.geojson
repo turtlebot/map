@@ -40,6 +40,20 @@
           43.41088540020938
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Robotnik",
+        "Role": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37779986858367914,
+          39.49389922910088
+        ]
+      }
     }
   ]
 }
