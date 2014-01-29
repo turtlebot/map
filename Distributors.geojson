@@ -27,6 +27,19 @@
           37.475982006769264
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Clearpath Robotics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44920086860657,
+          43.41088540020938
+        ]
+      }
     }
   ]
 }
