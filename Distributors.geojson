@@ -12,13 +12,16 @@
       },
       "properties": {
         "Organization": "Open Source Robotics Foundation",
-        "Role": "Licensor"
+        "Role": "Licensor",
+        "Website": "http://osrfoundation.org/"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Organization": "Yujin Robot"
+        "Organization": "Yujin Robot",
+        "Role": "Distributor",
+        "Website": "http://kobuki.yujinrobot.com/store/"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +34,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "Clearpath Robotics"
+        "Organization": "Clearpath Robotics",
+        "Website": "http://www.clearpathrobotics.com/turtlebot_2",
+        "Role": "Distributor"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +50,8 @@
       "type": "Feature",
       "properties": {
         "Organization": "Robotnik",
-        "Role": ""
+        "Role": "Distributor",
+        "Website": "http://robotnik.es/en"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +65,8 @@
       "type": "Feature",
       "properties": {
         "Organization": "GaiTech",
-        "Role": ""
+        "Role": "Distributor",
+        "Website": "http://www.gaitech.hk/"
       },
       "geometry": {
         "type": "Point",
