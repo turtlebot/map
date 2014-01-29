@@ -54,6 +54,20 @@
           39.49389922910088
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "GaiTech",
+        "Role": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -245.85353136062622,
+          22.288103695402054
+        ]
+      }
     }
   ]
 }
