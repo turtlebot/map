@@ -21,7 +21,7 @@
       "properties": {
         "Organization": "Yujin Robot",
         "Role": "Distributor",
-        "Website": '<a href="http://kobuki.yujinrobot.com/store/">yujinrobot.com</a>'
+        "Website": "http://kobuki.yujinrobot.com/store/"
       },
       "geometry": {
         "type": "Point",
