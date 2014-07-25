@@ -76,20 +76,5 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization": "I Heart Engineering",
-        "Role": "Distributors",
-        "Website": "http://www.iheartengineering.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.94950032234192,
-          40.6501444772935
-        ]
-      }
-    }
   ]
 }
