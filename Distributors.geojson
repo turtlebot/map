@@ -49,6 +49,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "SG Robotics",
+        "Role": "Distributor",
+        "Website": "http://www.sgbotic.com/index.php?subcats=Y&status=A&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&cid=0&q=turtlebot&x=0&y=0&dispatch=products.search",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.802637,
+          1.434526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "Robotnik",
         "Role": "Distributor",
         "Website": "http://robotnik.es/en"
