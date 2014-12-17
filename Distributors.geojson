@@ -107,6 +107,22 @@
           41.072779
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Arabose",
+        "Role": "Distributor",
+        "Website": "http://www.arobose.com",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346202,
+          48.86315
+        ]
+      }
     }
   ]
 }
