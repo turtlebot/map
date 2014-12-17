@@ -20,13 +20,13 @@
       "type": "Feature",
       "properties": {
         "Organization": "Yujin Robot",
-        "Role": "Distributor",
+        "Role": "Licensor & Distributor",
         "Website": "http://kobuki.yujinrobot.com/store/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -233.11803817749026,
+          126.881914,
           37.475982006769264
         ]
       }
