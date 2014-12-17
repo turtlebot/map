@@ -91,6 +91,22 @@
           22.288103695402054
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Gilbo",
+        "Role": "Distributor",
+        "Website": "http://gilbo.com.tr/kobuki/",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.799058,
+          41.072779
+        ]
+      }
     }
   ]
 }
