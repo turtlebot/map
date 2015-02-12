@@ -19,9 +19,9 @@ We keep a kobuki/turtlebot combined map up to date as well. If you want that upd
 How to Update
 -------------
 
-geojson.io is a good place for editing, but interaction with github is still awkward. You can do like below, but I find it far easier just to make pull requests from [direct edits](https://github.com/turtlebot/map/edit/master/Distributors.geojson).
+I find it easiest just to make pull requests from [direct edits](https://github.com/turtlebot/map/edit/master/Distributors.geojson).
 
-For the pretty, but awkward geojson editing -> [use this link](http://geojson.io/#id=github:turtlebot/map/blob/master/Distributors.geojson)
+For pretty editing -> [use this link](http://geojson.io/#id=github:turtlebot/map/blob/master/Distributors.geojson). The github interaction seems rather awkward though. 
 
 Embedding the Map in a Web Page
 -------------------------------
