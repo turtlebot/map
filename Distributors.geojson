@@ -67,7 +67,7 @@
       "properties": {
         "Organization": "Robotnik",
         "Role": "Manufacturer & Distributor",
-        "Website": "http://robotnik.es/en"
+        "Website": "http://www.robotnik.eu/mobile-robots/turtlebot-ros/"
       },
       "geometry": {
         "type": "Point",
