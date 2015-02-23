@@ -80,6 +80,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "Dabit Industries",
+        "Role": "Distributor",
+        "Website": "http://dabit.industries/",
+        "Product": "Manufacturer & Distributor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.868741,
+          40.725253
+        ]
+      }
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "GaiTech",
         "Role": "Manufacturer & Distributor",
         "Website": "http://www.gaitech.hk/"
