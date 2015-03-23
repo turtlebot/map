@@ -124,6 +124,22 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "Organization": "INROBOTEK Humanioid and Mobile Robot Technoloties, Inc.",
+        "Role": "Distributor",
+        "Website": "www.inrobotek.com.tr",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.099863, 
+          40.972196
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
