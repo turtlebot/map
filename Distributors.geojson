@@ -49,7 +49,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "SG Robotics",
+        "Organization": "SGBobotic",
         "Role": "Manufacturer & Distributor",
         "Website": "http://www.sgbotic.com/index.php?subcats=Y&status=A&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&cid=0&q=turtlebot&x=0&y=0&dispatch=products.search",
         "Product": "Kobuki & Turtlebot 2"
@@ -143,9 +143,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "Arabose",
+        "Organization": "Arobose",
         "Role": "Manufacturer & Distributor",
-        "Website": "http://www.arobose.com",
+        "Website": "http://www.arobose.com/shop/67-gamme-turtlebot-2",
         "Product": "Kobuki & Turtlebot 2"
       },
       "geometry": {
