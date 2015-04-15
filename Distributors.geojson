@@ -143,6 +143,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "Active8 Robots",
+        "Role": "Distributor",
+        "Website": "www.active8robots.com",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.506692, 
++          51.253259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "Arobose",
         "Role": "Manufacturer & Distributor",
         "Website": "http://www.arobose.com/shop/67-gamme-turtlebot-2",
