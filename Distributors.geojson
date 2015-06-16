@@ -16,6 +16,22 @@
         "Website": "http://osrfoundation.org/"
       }
     },
+    	 {
+      "type": "Feature",
+      "properties": {
+        "Organization": "sensorobot",
+        "Role": "Manufacturer & Distributor",
+        "Website": "www.sensorobots.net",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51,
+		  30.40
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
