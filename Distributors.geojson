@@ -104,8 +104,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.868741,
-          40.725253
+          40.725253,
+          -73.868741
         ]
       }
     },
@@ -185,22 +185,6 @@
         "coordinates": [
           5.488164,
           43.474765
-        ]
-      }
-    }
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization": "Dabit Industries",
-        "Role": "Manufacturer & Distributor",
-        "Website": "http://www.dabitindustries.com",
-        "Product": "Kobuki & Turtlebot 2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.7151214,
-          -73.8790505
         ]
       }
     }
