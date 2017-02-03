@@ -171,22 +171,6 @@
           51.253259
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization": "Arobose",
-        "Role": "Manufacturer & Distributor",
-        "Website": "http://www.arobose.com/shop/67-gamme-turtlebot-2",
-        "Product": "Kobuki & Turtlebot 2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.488164,
-          43.474765
-        ]
-      }
     }
   ]
 }
