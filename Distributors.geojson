@@ -3,32 +3,34 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Open Source Robotics Foundation",
+        "Role": "TurtleBot Licensor",
+        "Website": "http://osrfoundation.org/"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.079784,
           37.400465
         ]
-      },
-      "properties": {
-        "Organization": "Open Source Robotics Foundation",
-        "Role": "T2 Licensor",
-        "Website": "http://osrfoundation.org/"
       }
     },
-    	 {
+    {
       "type": "Feature",
       "properties": {
-        "Organization": "sensorobot",
-        "Role": "Manufacturer & Distributor",
-        "Website": "www.sensorobots.net",
-        "Product": "Kobuki & Turtlebot 2"
+        "marker-color": "#ff0000",
+        "Organization": "ROBOTIS (HQ)",
+        "Role": "TB3 Manufacturer & Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "http://www.robotis.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          120.51,
-		  30.40
+          126.88161849975586,
+          37.478085057456106
         ]
       }
     },
@@ -36,7 +38,8 @@
       "type": "Feature",
       "properties": {
         "Organization": "Yujin Robot",
-        "Role": "Kobuki Licensor, Manufacturer & Distributor",
+        "Role": "Kobuki Licensor, TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2, Kobuki",
         "Website": "http://garage.yujinrobot.com/"
       },
       "geometry": {
@@ -50,9 +53,26 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "sensorobot",
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "TurtleBot 2",
+        "Website": "http://www.sensorobots.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51,
+          30.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "Clearpath Robotics",
-        "Website": "http://www.clearpathrobotics.com/turtlebot_2",
-        "Role": "Manufacturer & Distributor"
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "TurtleBot 2",
+        "Website": "http://www.clearpathrobotics.com/turtlebot_2"
       },
       "geometry": {
         "type": "Point",
@@ -66,9 +86,9 @@
       "type": "Feature",
       "properties": {
         "Organization": "SGBobotic",
-        "Role": "Manufacturer & Distributor",
-        "Website": "http://www.sgbotic.com/index.php?subcats=Y&status=A&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&cid=0&q=turtlebot&x=0&y=0&dispatch=products.search",
-        "Product": "Kobuki & Turtlebot 2"
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2",
+        "Website": "https://www.sgbotic.com/index.php?dispatch=products.view&product_id=1958"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +102,8 @@
       "type": "Feature",
       "properties": {
         "Organization": "Robotnik",
-        "Role": "Manufacturer & Distributor",
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2",
         "Website": "http://www.robotnik.eu/mobile-robots/turtlebot-ros/"
       },
       "geometry": {
@@ -97,9 +118,9 @@
       "type": "Feature",
       "properties": {
         "Organization": "Dabit Industries",
-        "Role": "Distributor",
-        "Website": "http://dabit.industries/",
-        "Product": "Manufacturer & Distributor"
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2e, Turtlebot 2, Kobuki",
+        "Website": "http://dabit.industries/"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +134,8 @@
       "type": "Feature",
       "properties": {
         "Organization": "GaiTech",
-        "Role": "Manufacturer & Distributor",
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2",
         "Website": "http://www.gaitech.hk/"
       },
       "geometry": {
@@ -128,9 +150,9 @@
       "type": "Feature",
       "properties": {
         "Organization": "Gilbo",
-        "Role": "Manufacturer & Distributor",
-        "Website": "http://gilbo.com.tr/kobuki/",
-        "Product": "Kobuki & Turtlebot 2"
+        "Role": "TB2 Manufacturer & Distributor",
+        "Product": "Turtlebot 2, Kobuki",
+        "Website": "http://gilbo.com.tr/"
       },
       "geometry": {
         "type": "Point",
@@ -140,18 +162,18 @@
         ]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "Organization": "INROBOTEK Humanioid and Mobile Robot Technoloties, Inc.",
-        "Role": "Distributor",
-        "Website": "www.inrobotek.com.tr",
-        "Product": "Kobuki & Turtlebot 2"
+        "Role": "TB2 Distributor",
+        "Product": "Turtlebot 2, Kobuki",
+        "Website": "http://www.inrobotek.com.tr"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.099863, 
+          29.099863,
           40.972196
         ]
       }
@@ -160,15 +182,66 @@
       "type": "Feature",
       "properties": {
         "Organization": "Active8 Robots",
-        "Role": "Distributor",
-        "Website": "www.active8robots.com",
-        "Product": "Kobuki & Turtlebot 2"
+        "Role": "TB2 Distributor",
+        "Product": "Turtlebot 2, Kobuki",
+        "Website": "http://www.active8robots.com"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.506692, 
+          -2.506692,
           51.253259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "ROBOTIS Inc.",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "http://robotis.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.66838073730467,
+          33.66706823220566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "ROBOTIS China",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "http://cn.robotis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.47031307220459,
+          39.97894525117546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "ROBOTIS Japan.",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "http://jp.robotis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77304726839066,
+          35.69045025639499
         ]
       }
     }
