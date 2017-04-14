@@ -4,9 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
-        "marker-symbol": "star-stroked",
-        "marker-color": "#00b6ff",
+        "marker-color": "#ff0000",
         "Organization": "Open Source Robotics Foundation",
         "Role": "TurtleBot Licensor",
         "Website": "http://osrfoundation.org/"
@@ -32,7 +30,7 @@
         "type": "Point",
         "coordinates": [
           126.88161849975586,
-          37.46347678
+          37.478085057456106
         ]
       }
     },
