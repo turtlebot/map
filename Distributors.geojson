@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "marker-color": "#00b6ff",
         "Organization": "Open Source Robotics Foundation",
         "Role": "TurtleBot Licensor",
         "Website": "http://osrfoundation.org/"
@@ -30,7 +32,7 @@
         "type": "Point",
         "coordinates": [
           126.88161849975586,
-          37.478085057456106
+          37.46347678
         ]
       }
     },
@@ -232,7 +234,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff0000",
-        "Organization": "ROBOTIS Japan.",
+        "Organization": "ROBOTIS Japan",
         "Role": "TB3 Distributor",
         "Product": "Turtlebot 3",
         "Website": "http://jp.robotis.com/"
