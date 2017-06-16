@@ -314,6 +314,57 @@
           28.627394
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "BestTechnology CO., LTD.",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "http://www.besttechnology.co.jp/modules/news/details.php?bid=140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691827,
+          35.537368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "RT Corporation",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "https://www.rt-shop.jp/blog/archives/9944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769850,
+          35.700880
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "noDNA GmbH",
+        "Role": "TB3 Distributor",
+        "Product": "Turtlebot 3",
+        "Website": "https://nodna.de/navi.php?qs=turtlebot+3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.682066,
+          48.235946
+        ]
+      }
     }
   ]
 }
