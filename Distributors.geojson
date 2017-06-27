@@ -378,7 +378,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          116.253400,
+          116.2534,
           40.204398
         ]
       }
@@ -413,7 +413,7 @@
         "type": "Point",
         "coordinates": [
           51.410498,
-          35.753960
+          35.75396
         ]
       }
     },
@@ -465,6 +465,23 @@
         "coordinates": [
           101.756197,
           2.963189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Foshan AiZheTeng Information Technology Co.,Ltd.",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.ncnynl.com/turtlebot3.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.046880,
+          23.061450
         ]
       }
     }
