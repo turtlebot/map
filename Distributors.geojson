@@ -518,6 +518,57 @@
           30.501568
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "ROS Components",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://www.roscomponents.com/es/12-robots-moviles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.461979,
+          39.508101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "DigiWare",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://digiwarestore.com/en/search?controller=search&orderby=position&orderway=desc&search_query=turtlebot3&submit_search="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.761000,
+          -7.296507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "HongQin Sdn Bhd",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://site.robotclub.com.my/main/3150/index.asp?pageid=180634&t=research-robot-platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.590542,
+          3.154748
+        ]
+      }
     }
   ]
 }
