@@ -569,6 +569,40 @@
           3.154748
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Generation Robots",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://www.generationrobots.com/fr/recherche?controller=search&orderby=position&orderway=desc&search_query=turtlebot+3&submit_search="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.673274,
+          44.855127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Dabit Industries",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://dabit.industries/collections/turtlebot-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.905328,
+          40.694575
+        ]
+      }
     }
   ]
 }
