@@ -603,6 +603,23 @@
           40.694575
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Tribotix",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.tribotix.com/Products/Robotis/TB3/TB3.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.689102,
+          -32.954549
+        ]
+      }
     }
   ]
 }
