@@ -151,22 +151,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "Gilbo",
-        "Role": "TB2 Manufacturer & Distributor",
-        "Product": "TurtleBot 2, Kobuki",
-        "Website": "http://gilbo.com.tr/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.799058,
-          41.072779
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Organization": "INROBOTEK Humanioid and Mobile Robot Technoloties, INC.",
         "Role": "TB2 Distributor",
         "Product": "TurtleBot 2, Kobuki",
