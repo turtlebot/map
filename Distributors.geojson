@@ -604,6 +604,23 @@
           -32.954549
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "BJRobot Technology Co.,LTD",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.rosrobot.cn/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.513297,
+          39.763938
+        ]
+      }
     }
   ]
 }
