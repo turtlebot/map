@@ -621,6 +621,23 @@
           39.763938
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Robotsepeti.com - Gilbo",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.robotsepeti.com/turtlebot-3-burger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.797361,
+          41.049556
+        ]
+      }
     }
   ]
 }
