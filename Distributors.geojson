@@ -87,22 +87,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "SGBobotic",
-        "Role": "TB2 Manufacturer & Distributor",
-        "Product": "TurtleBot 2",
-        "Website": "https://www.sgbotic.com/index.php?dispatch=products.view&product_id=1958"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.802637,
-          1.434526
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Organization": "Robotnik",
         "Role": "TB2 Manufacturer & Distributor",
         "Product": "TurtleBot 2",
@@ -145,22 +129,6 @@
         "coordinates": [
           114.1463,
           22.288103695402054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Organization": "INROBOTEK Humanioid and Mobile Robot Technoloties, INC.",
-        "Role": "TB2 Distributor",
-        "Product": "TurtleBot 2, Kobuki",
-        "Website": "http://www.inrobotek.com.tr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.099863,
-          40.972196
         ]
       }
     },
