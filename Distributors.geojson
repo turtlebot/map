@@ -606,6 +606,23 @@
           41.049556
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Sugiura Machine Design Office",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://robotisproshop.cart.fc2.com/?ca=67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.648693,
+          35.518319
+        ]
+      }
     }
   ]
 }
