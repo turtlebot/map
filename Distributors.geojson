@@ -135,22 +135,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Organization": "Active8 Robots",
-        "Role": "TB2 Distributor",
-        "Product": "TurtleBot 2, Kobuki",
-        "Website": "http://www.active8robots.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.506692,
-          51.253259
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#ff0000",
         "Organization": "ROBOTIS INC.",
         "Role": "TB3 Distributor",
