@@ -607,6 +607,23 @@
           35.518319
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Sensorbot",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.sensorobots.net/2721.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.403560,
+          31.168420
+        ]
+      }
     }
   ]
 }
