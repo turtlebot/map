@@ -624,6 +624,23 @@
           31.168420
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "MyBotShop",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://www.mybotshop.de/Robots-on-Wheels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.688396,
+          50.972769
+        ]
+      }
     }
   ]
 }
