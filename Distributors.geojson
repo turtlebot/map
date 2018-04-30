@@ -641,6 +641,23 @@
           50.972769
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "France Robotique",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.francerobotique.com/recherche?controller=search&orderby=position&orderway=desc&search_query=turtlebot3&submit_search="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.267025,
+          45.839632
+        ]
+      }
     }
   ]
 }
