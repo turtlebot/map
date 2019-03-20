@@ -289,23 +289,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff0000",
-        "Organization": "noDNA GmbH",
-        "Role": "TB3 Distributor",
-        "Product": "TurtleBot 3",
-        "Website": "https://nodna.de/navi.php?qs=turtlebot+3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.682066,
-          48.235946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
         "Organization": "YA Robot Company",
         "Role": "TB3 Distributor",
         "Product": "TurtleBot 3",
