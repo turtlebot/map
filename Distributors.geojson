@@ -641,6 +641,23 @@
           45.839632
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Generation Robots",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://www.generationrobots.com/de/suche?controller=search&orderby=position&orderway=desc&search_query=turtlebot&submit_search="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.376716,
+          52.508954
+        ]
+      }
     }
   ]
 }
