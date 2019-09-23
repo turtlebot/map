@@ -658,6 +658,23 @@
           52.508954
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "MG Automation Technologies",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "https://www.mgsuperlabs.co.in/estore/index.php?route=product/search&search=turtlebot3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.078906,
+          21.138073
+        ]
+      }
     }
   ]
 }
