@@ -675,6 +675,40 @@
           21.138073
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "INDRUINO TECHNOLOGY SOLUTION CO., LTD",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://www.indruino.com/distribution-product/professtional-product"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.773829,
+          10.851638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Organization": "Applied Robotics Ltd.",
+        "Role": "TB3 Distributor",
+        "Product": "TurtleBot 3",
+        "Website": "http://appliedrobotics.ru/?page_id=578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.502572,
+          55.740069
+        ]
+      }
     }
   ]
 }
