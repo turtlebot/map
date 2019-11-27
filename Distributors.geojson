@@ -26,7 +26,7 @@
         "Organization": "ROBOTIS (HQ)",
         "Role": "TB3 Manufacturer & Distributor",
         "Product": "TurtleBot 3",
-        "Website": "http://en.robotis.com/index/product.php?cate_code=111510"
+        "Website": "http://en.robotis.com/model/page.php?co_id=prd_turtlebot3"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@
         "Organization": "ROBOTIS China",
         "Role": "TB3 Distributor",
         "Product": "TurtleBot 3",
-        "Website": "http://cn.robotis.com/index/product.php?cate_code=131810"
+        "Website": "http://cn.robotis.com/model/page.php?co_id=prd_turtlebot3"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
         "Organization": "ROBOTIS Japan",
         "Role": "TB3 Distributor",
         "Product": "TurtleBot 3",
-        "Website": "http://jp.robotis.com/index/product.php?cate_code=111310"
+        "Website": "http://jp.robotis.com/model/page.php?co_id=prd_turtlebot3"
       },
       "geometry": {
         "type": "Point",
